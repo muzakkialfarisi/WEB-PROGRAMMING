@@ -2,7 +2,7 @@
 Framework CodeIgniter
 ###################
 
-Di web programming ecommerce maridoc ini, kurang file "system" dan "user_guide" dikarenakan foldernya berisi file yang lebih dari 100 maka tidak bisa di upload ke github. jadi para pengguna yang ingin menggunakan program ini bisa download Codeigniter pada link dibawah. cukup ambil file yang kurang saja. tnks selamat mencoba!
+Di web programming ecommerce Maridoc ini, kurang file "system" dan "user_guide" dikarenakan foldernya berisi file yang lebih dari 100 maka tidak bisa di upload ke github. jadi para pengguna yang ingin menggunakan program ini bisa download Codeigniter pada link dibawah. cukup ambil file yang kurang saja. tnks selamat mencoba!
 
 
 *******************
